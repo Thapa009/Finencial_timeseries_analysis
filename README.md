@@ -1,3 +1,5 @@
+<h1>📈 Hands-on Experience in Financial Time Series Analysis</h1>
+
 📈 Financial Time Series Analysis
 A hands-on repository to learn financial time series analysis from scratch.
 Focuses on implementing core concepts, experimenting with real data, and building intuition through practice rather than theory.
